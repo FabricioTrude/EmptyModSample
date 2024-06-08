@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#forge:ores/sapphire",
+    "myfirstmod:sapphire_block",
+    "myfirstmod:raw_sapphire_block",
+    "myfirstmod:sapphire_slab",
+    "myfirstmod:sapphire_trapdoor",
+    "myfirstmod:sapphire_stairs",
+    "myfirstmod:sapphire_door",
+    "myfirstmod:sapphire_button",
+    "myfirstmod:sapphire_fence",
+    "myfirstmod:sapphire_fence_gate",
+    "myfirstmod:sapphire_pressure_plate",
+    "myfirstmod:sapphire_wall"
+  ]
+}

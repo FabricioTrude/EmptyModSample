@@ -1,0 +1,23 @@
+// 1.20.1	2024-06-16T16:38:24.9123989	Tags for minecraft:block mod id myfirstmod
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+f2775806a3f9f61f3c90ba2d4b5ad81cf854455e data/forge/tags/blocks/ores.json
+e52a80eae7283a165b1edfbe282f26cd02139c5e data/forge/tags/blocks/ores/sapphire.json
+69b65eea985a0150fe27e5fe6cc1dd647f214799 data/forge/tags/blocks/storage_blocks.json
+4fb118b5fa8ef33f7add132590dc4ddd92e07f16 data/forge/tags/blocks/storage_blocks/raw_sapphire.json
+5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/forge/tags/blocks/storage_blocks/sapphire.json
+5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/minecraft/tags/blocks/beacon_base_blocks.json
+0318b4bd54168df3c45b682066440cc6c7b41647 data/minecraft/tags/blocks/buttons.json
+e447e999f275273119cb372e1fdc114a470591d4 data/minecraft/tags/blocks/doors.json
+7ae913dff792e0409497ca582e0533305d812cf6 data/minecraft/tags/blocks/fences.json
+ff481f145bf93b9649afd0ae6812d8730e6bc5a3 data/minecraft/tags/blocks/fence_gates.json
+0db35c67701899be0968e8f7073de9312a475ad1 data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+3f419a6a09377fd8c397a7251e4cf460740571cf data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+40cb659106c3b2233b1e3840a7d3afe060c3dbfa data/minecraft/tags/blocks/pressure_plates.json
+3002ad6bfd3f34d690d559b802672b43ddffbb8b data/minecraft/tags/blocks/slabs.json
+8c9237d7966785d43fdabe07ae273c818b3139c8 data/minecraft/tags/blocks/stairs.json
+f18f551473153d7c00d76c0a08e6352cf7d2fa52 data/minecraft/tags/blocks/trapdoors.json
+2b31171f6693a1118d070d6654258c64fd51e8b7 data/minecraft/tags/blocks/walls.json
+1faa01b91776e658e5df7f0c56dcf1c2b5bfed99 data/myfirstmod/tags/blocks/sapphire_ores.json
+5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/myfirstmod/tags/blocks/tiers/sapphire.json

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sapphire_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "myfirstmod:sapphire_dust"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "myfirstmod:sapphire_from_blasting_sapphire_dust"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_sapphire_dust",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "myfirstmod:sapphire_from_blasting_sapphire_dust"
+    ]
+  },
+  "sends_telemetry_event": false
+}

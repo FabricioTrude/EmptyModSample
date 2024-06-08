@@ -1,0 +1,22 @@
+// 1.20.1	2024-06-18T13:47:53.9725459	Tags for minecraft:item mod id myfirstmod
+ccbe9d68b1d3290982f0f763589b44b91e825e33 data/forge/tags/items/armors.json
+3246f0e8308ab515c8636ead187c82b76e5b3668 data/forge/tags/items/armors/boots.json
+d39a6dc47b0e614884a0f8e516747352008eaa80 data/forge/tags/items/armors/chestplates.json
+56461b7bc45a2eddd23a91a36516d711a85f67dc data/forge/tags/items/armors/helmets.json
+0774e236ce4a2a6c5a95e86d1924a087dddb711b data/forge/tags/items/armors/leggings.json
+f52cb8860db4e04de3c9bb426343c5fc3a6864a1 data/forge/tags/items/dusts.json
+fa02812be4df591feedd7e3a777fa3cf3ee00e9c data/forge/tags/items/dusts/sapphire.json
+dcfc461e7d46daef23e868b36c2b13c4cf6a8db6 data/forge/tags/items/gems.json
+78cbd91873673c38097024c3ea94ac520759ff00 data/forge/tags/items/gems/sapphire.json
+d400d6e88a85e8de9cde5d03e0eb373bbd4be656 data/forge/tags/items/raw_materials.json
+9f8124e2c6a74f4407c610f86fabf0b9d03e78bd data/forge/tags/items/raw_materials/sapphire.json
+4fb118b5fa8ef33f7add132590dc4ddd92e07f16 data/forge/tags/items/storage_blocks/raw_sapphire.json
+5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/forge/tags/items/storage_blocks/sapphire.json
+3b9046b82ea42c13422ad06d8451e7c0a3da5fa2 data/forge/tags/items/tools/bows.json
+678905805f5009e97a8f0b67bb3649d1ebafe17f data/minecraft/tags/items/axes.json
+78cbd91873673c38097024c3ea94ac520759ff00 data/minecraft/tags/items/beacon_payment_items.json
+80653a7486266fb229ab62be299739f7a87c3229 data/minecraft/tags/items/hoes.json
+4df1f464ef97cd789ad34eb9f259fda1d4118cf3 data/minecraft/tags/items/pickaxes.json
+106e739ef46352d85ca99cd6be052dd0615f2546 data/minecraft/tags/items/shovels.json
+f5dc0d95ace3de8ed1f9fecd28ef6ccaf918099e data/minecraft/tags/items/swords.json
+bf1fc9bafca4a01a270d2718132a04e989ca8087 data/minecraft/tags/items/trimmable_armor.json

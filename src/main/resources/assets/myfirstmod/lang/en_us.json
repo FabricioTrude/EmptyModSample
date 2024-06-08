@@ -1,0 +1,54 @@
+{
+  "item.myfirstmod.raw_sapphire": "Raw Sapphire",
+  "item.myfirstmod.sapphire": "Sapphire",
+  "item.myfirstmod.cooked_sapphire": "Cooked Sapphire",
+  "item.myfirstmod.sapphire_dust": "Sapphire Dust",
+  "item.myfirstmod.sapphire_staff": "Sapphire Staff",
+  "item.myfirstmod.sapphire_sword": "Sapphire Sword",
+  "item.myfirstmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.myfirstmod.sapphire_axe": "Sapphire Axe",
+  "item.myfirstmod.sapphire_shovel": "Sapphire Shovel",
+  "item.myfirstmod.sapphire_hoe": "Sapphire Hoe",
+  "item.myfirstmod.sapphire_bow": "Sapphire Bow",
+  "item.myfirstmod.sapphire_helmet": "Sapphire Helmet",
+  "item.myfirstmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.myfirstmod.sapphire_leggings": "Sapphire Leggings",
+  "item.myfirstmod.sapphire_boots": "Sapphire Boots",
+
+  "block.myfirstmod.sound_block": "Sound Block",
+  "block.myfirstmod.borderless_lamp": "Borderless Lamp",
+  "block.myfirstmod.colored_lamp": "Colored Lamp",
+  "block.myfirstmod.smooth_lamp": "Smooth Lamp",
+  "block.myfirstmod.conductor": "Conductor",
+
+  "block.myfirstmod.sapphire_block": "Sapphire Block",
+  "block.myfirstmod.sapphire_slab": "Sapphire Slab",
+  "block.myfirstmod.sapphire_stairs": "Sapphire Stairs",
+  "block.myfirstmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.myfirstmod.sapphire_button": "Sapphire Button",
+  "block.myfirstmod.sapphire_fence": "Sapphire Fence",
+  "block.myfirstmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.myfirstmod.sapphire_wall": "Sapphire Wall",
+  "block.myfirstmod.sapphire_door": "Sapphire Door",
+  "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "block.myfirstmod.raw_sapphire_block": "Raw Sapphire Block",
+
+  "block.myfirstmod.sapphire_ore": "Sapphire Ore",
+  "block.myfirstmod.sandstone_sapphire_ore": "Sandstone Sapphire Ore",
+  "block.myfirstmod.andesite_sapphire_ore": "Andesite Sapphire Ore",
+  "block.myfirstmod.granite_sapphire_ore": "Granite Sapphire Ore",
+  "block.myfirstmod.diorite_sapphire_ore": "Diorite Sapphire Ore",
+  "block.myfirstmod.tuff_sapphire_ore": "Tuff Sapphire Ore",
+  "block.myfirstmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.myfirstmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.myfirstmod.end_sapphire_ore": "End Sapphire Ore",
+
+  "creativetab.main": "Main Resources",
+  "creativetab.ores": "Ores Variations",
+  "creativetab.misc": "Misc",
+
+  "tooltip.myfirstmod.sound_block": "Right click to make a sound, step on it to make another!",
+
+  "tooltip.myfirstmod.fuelitem": "This item is a fuel!"
+}

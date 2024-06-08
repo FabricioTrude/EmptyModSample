@@ -1,0 +1,22 @@
+{
+  "values": [
+    "myfirstmod:sapphire_ore",
+    "myfirstmod:sandstone_sapphire_ore",
+    "myfirstmod:tuff_sapphire_ore",
+    "myfirstmod:andesite_sapphire_ore",
+    "myfirstmod:granite_sapphire_ore",
+    "myfirstmod:diorite_sapphire_ore",
+    "myfirstmod:deepslate_sapphire_ore",
+    "myfirstmod:nether_sapphire_ore",
+    "myfirstmod:end_sapphire_ore",
+    "myfirstmod:sapphire_slab",
+    "myfirstmod:sapphire_trapdoor",
+    "myfirstmod:sapphire_stairs",
+    "myfirstmod:sapphire_door",
+    "myfirstmod:sapphire_button",
+    "myfirstmod:sapphire_fence",
+    "myfirstmod:sapphire_fence_gate",
+    "myfirstmod:sapphire_pressure_plate",
+    "myfirstmod:sapphire_wall"
+  ]
+}
